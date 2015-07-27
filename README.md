@@ -1,4 +1,4 @@
-关注公众号iOS开发：***iOSDevTip*
+关注公众号iOS开发：**iOSDevTip**
 
 ![iOSDevTip](http://7xjrlb.com1.z0.glb.clouddn.com/ios.png)
 
