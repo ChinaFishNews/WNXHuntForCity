@@ -1,3 +1,7 @@
+关注公众号iOS开发：***iOSDevTip*
+
+![iOSDevTip](http://7xjrlb.com1.z0.glb.clouddn.com/ios.png)
+
 # iOS高仿城觅项目（开发思路和代码）
 ![抽屉](http://ww3.sinaimg.cn/mw690/0068uRu1gw1euafbypbwfg307r0eanpd.gif)
 ![首页部分效果](http://ww2.sinaimg.cn/mw690/0068uRu1gw1euafbuoga1g307r0ea4qq.gif)
